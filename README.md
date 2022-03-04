@@ -54,4 +54,4 @@
 
 ## 👥 Como contribuir
 
-Para contribuir com este projeto, verifique o arquivo [CONTRIBUTING.md](https://github.com/All3yp/The-computer-science-repository/CONTRIBUTING.md)
+Para contribuir com este projeto, verifique o arquivo [CONTRIBUTING.md](https://github.com/All3yp/The-computer-science-repository/blob/main/CONTRIBUTING.md)

@@ -1,6 +1,9 @@
-<img alt="logo" src="logo.png" />
+<img alt="CS - All3yp" src="logo.png" />
+
+<br>
 
 #### O objetivo deste repositório é reunir todos os projetos open source de ciências da computação
+</br>
 
 <p align="left">
   <a href="#cursos">🎓 Cursos</a>
@@ -8,11 +11,18 @@
   <a href="#livros">📚 Livros</a>
   &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#roadmaps">📌 Roadmaps</a>
+  &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#extras">📚 Extras</a>
     &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-      <a href="#extras">📚 Extras</a>
+  <a href="#contribuir">👥 Como contribuir</a>
 </p>
 
+<br>
+
 > ＂What ultimately matters in this course is not so much where you end up relative to your classmates but where you end up relative to yourself when you began＂- [David J. Malan](https://cs.harvard.edu/malan/)
+> 
+</br>
+
 
 ## 🎓Cursos
 
@@ -34,8 +44,14 @@
 ## 📌 Roadmaps
 - [Passo a passo para carreira Front, Back e Devops](https://roadmap.sh/)
 - [Developer Roadmaps](https://roadmap.sh/)
+- [Computer science study](https://github.com/iaurg/Computer-Science-Study)
 - [Guia de estudos - ios](https://github.com/thyagoraphael/guia-de-estudos-iOS)
+- [Codando Apple](https://github.com/CodandoApple/aprenda-swift)
 
 ## 📚 Extras
+- [Introdução a linha de comando](https://tutorial.djangogirls.org/pt/intro_to_command_line/)
 - [Code Interview University](https://github.com/jwasham/coding-interview-university)
-- [Computer science study](https://github.com/iaurg/Computer-Science-Study)
+
+## 👥 Como contribuir
+
+Para contribuir com este projeto, verifique o arquivo [CONTRIBUTING.md](https://github.com/All3yp/The-computer-science-repository/CONTRIBUTING.md)

@@ -51,9 +51,11 @@
 
 ## 📚 Extras
 - [Introdução a linha de comando](https://tutorial.djangogirls.org/pt/intro_to_command_line/)
+- [Guia extenso de programação](https://github.com/arthurspk/guiadevbrasil)
 
 ## 🧑‍💻 Interviews
 - [Code Interview University](https://github.com/jwasham/coding-interview-university)
+- [iOS interviews](https://github.com/Viniciuscarvalho/ios_interview.git)
 
 ## 👥 Como contribuir
 

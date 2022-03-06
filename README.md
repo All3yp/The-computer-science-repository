@@ -34,6 +34,7 @@
 - [Open Source CS Degree](https://lnkd.in/d524thU7)
 - [Teach Yourself CS](https://lnkd.in/dgUKjWzi)
 - [Functional CS](https://lnkd.in/dx5HsZgy)
+- [Awesome CS Courses](https://github.com/prakhar1989/awesome-courses)
 
 - [MIT The Missing Semester of Your CS Education](https://missing.csail.mit.edu/)
 
@@ -50,6 +51,8 @@
 
 ## 📚 Extras
 - [Introdução a linha de comando](https://tutorial.djangogirls.org/pt/intro_to_command_line/)
+
+## 🧑‍💻 Interviews
 - [Code Interview University](https://github.com/jwasham/coding-interview-university)
 
 ## 👥 Como contribuir

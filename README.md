@@ -35,6 +35,7 @@
 - [Teach Yourself CS](https://lnkd.in/dgUKjWzi)
 - [Functional CS](https://lnkd.in/dx5HsZgy)
 - [Awesome CS Courses](https://github.com/prakhar1989/awesome-courses)
+- [The Python Open Source Computer Science Degree](https://github.com/ForrestKnight/open-source-cs-python)
 
 - [MIT The Missing Semester of Your CS Education](https://missing.csail.mit.edu/)
 

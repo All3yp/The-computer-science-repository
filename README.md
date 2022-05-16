@@ -37,6 +37,7 @@
 - [Awesome CS Courses](https://github.com/prakhar1989/awesome-courses)
 - [The Python Open Source Computer Science Degree](https://github.com/ForrestKnight/open-source-cs-python)
 - [Open Source CS](https://github.com/ForrestKnight/open-source-cs)
+- [Guia de Autoestudo para Ciência da Computação](https://compvidareal.com.br/computacao-online/)
 
 - [MIT The Missing Semester of Your CS Education](https://missing.csail.mit.edu/)
 

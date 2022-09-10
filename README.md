@@ -53,6 +53,7 @@
 - [Guia de estudos - ios](https://github.com/thyagoraphael/guia-de-estudos-iOS)
 - [Codando Apple](https://github.com/CodandoApple/aprenda-swift)
 - [Guia Extenso de Programação](https://github.com/arthurspk/guiadevbrasil)
+- [Awesome Quality Assurance Roadmap](https://github.com/fityanos/awesome-quality-assurance-roadmap)
 
 ## 📚 Extras
 - [Introdução a linha de comando](https://tutorial.djangogirls.org/pt/intro_to_command_line/)

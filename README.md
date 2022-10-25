@@ -38,12 +38,15 @@
 - [The Python Open Source Computer Science Degree](https://github.com/ForrestKnight/open-source-cs-python)
 - [Open Source CS](https://github.com/ForrestKnight/open-source-cs)
 - [Guia de Autoestudo para Ciência da Computação](https://compvidareal.com.br/computacao-online/)
-
 - [MIT The Missing Semester of Your CS Education](https://missing.csail.mit.edu/)
 
 ## 📚 Livros
 
 - [Most influential books on Computer Science/programming](https://github.com/cs-books/influential-cs-books)
+
+## 💻 Introdução a Programação
+- [Introdução a Algoritmos - Guanabara - Curso em Vídeo](https://www.youtube.com/watch?v=8mei6uVttho&list=PLHz_AreHm4dmSj0MHol_aoNYCSGFqvfXV)
+- [Projetos de Algoritmos em C - Paulo Feofiloff - IME/USP](https://www.ime.usp.br/~pf/algoritmos/index.html)
 
 ## 📌 Roadmaps
 - [Passo a passo para carreira Front, Back e Devops](https://roadmap.sh/)
